@@ -1,0 +1,15 @@
+/.metadata/
+.metadata
+/cteam/.settings/
+cteam/target/
+.metadata/.plugins/
+/iot/.settings/
+iot/target/
+workspace/cteam/.settings/org.eclipse.core.resources.prefs
+workspace/cteam/.settings/org.eclipse.jdt.core.prefs
+workspace/cteam/.settings/org.eclipse.m2e.core.prefs
+workspace/cteam/.settings/org.eclipse.wst.common.component
+workspace/cteam/.settings/org.eclipse.wst.common.project.facet.core.xml
+workspace/cteam/.settings/org.eclipse.wst.validation.prefs
+workspace/cteam/.settings/org.springframework.ide.eclipse.beans.core.prefs
+workspace/cteam/.settings/org.springframework.ide.eclipse.core.prefs
